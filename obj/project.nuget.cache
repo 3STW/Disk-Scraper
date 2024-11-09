@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rM7lQLk/sw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ERROR 404\\Desktop\\ME\\Coding\\C#\\Usefull Things\\Cleaner For Junk Files\\Disk Scraper\\Disk Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERROR 404\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\ERROR 404\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ERROR 404\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.exe
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.dll.config
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.deps.json
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.runtimeconfig.json
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Disk Scraper.pdb
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\Guna.UI2.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\System.Management.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\bin\Release\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.csproj.AssemblyReference.cache
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk_Scraper.About.resources
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk_Scraper.CleanerForm.resources
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk_Scraper.DashBoard.resources
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk_Scraper.Login.resources
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk_Scraper.Properties.Resources.resources
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.csproj.GenerateResource.cache
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.AssemblyInfoInputs.cache
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.AssemblyInfo.cs
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.csproj.CoreCompileInputs.cache
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scr.E1F410C3.Up2Date
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\refint\Disk Scraper.dll
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.pdb
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\Disk Scraper.genruntimeconfig.cache
+C:\Users\ERROR 404\Desktop\ME\Coding\C#\Usefull Things\Cleaner For Junk Files\Disk Scraper\obj\Release\net8.0-windows\ref\Disk Scraper.dll
